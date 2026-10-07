@@ -1,0 +1,17 @@
+Entorno activo: DEV
+Entorno activo: PRE
+Entorno activo: PRO
+ValueError: APP_ENV debe ser dev, pre o pro
+============================= test session starts ==============================
+platform linux -- Python 3.12.14, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/marc/env-demo
+configfile: pyproject.toml
+collected 4 items
+
+tests/test_main.py ....                                                  [100%]
+
+============================== 4 passed in 0.01s ===============================
+All checks passed!
+f7e87db add tests and usage doc
+ffa4909 add environment-aware command
+02028be bootstrap uv project
