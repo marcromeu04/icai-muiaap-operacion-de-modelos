@@ -1,0 +1,1 @@
+Al abrir la app aparece el formulario sin predicción. He cambiado los campos sin enviar y no se calcula ningún resultado. Al pulsar Calcular riesgo aparece la etiqueta, el score y la explicación. Después he cambiado el perfil y lo he vuelto a enviar. El resultado se actualiza con los nuevos datos.
