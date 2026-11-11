@@ -28,4 +28,4 @@ Nunca se muestran el cuerpo de la respuesta, el traceback ni las features.
 
 - uv run python -m pytest -q: 34 passed.
 - ruff check y ruff format --check: sin errores.
-- App con MODEL_API_URL contra la API local: capturas de éxito, fallo traducido y reintento en semana7/capturas.
+- App con MODEL_API_URL contra la API local: capturas de éxito y fallo traducido en semana7/capturas.
